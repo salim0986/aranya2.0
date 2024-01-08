@@ -1,8 +1,7 @@
-# React + Vite
+# Aranya 2.0
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This single-page website is created to showcase my basic development skills to the web-ops team of IITM BS Degree. It will help them to know if I am the right person to join web-ops team.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Usage
+1. Clone or Fork this repository in your device.
+2. Run "npm run dev" via terminal to test this webpage in development mode.
